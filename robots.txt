@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /impresszum/
+Disallow: /adatkezeles/
+
+Sitemap: https://ndgrowthmarketing.hu/sitemap.xml
